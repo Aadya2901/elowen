@@ -4,6 +4,10 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Index from "./pages/Index";
+import Softspace from "./pages/Softspace";
+import SoftspaceResponse from "./pages/SoftspaceResponse";
+import SharedReflections from "./pages/SharedReflections";
+import About from "./pages/About";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -16,7 +20,10 @@ const App = () => (
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Index />} />
-          {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
+          <Route path="/softspace" element={<Softspace />} />
+          <Route path="/softspace/response" element={<SoftspaceResponse />} />
+          <Route path="/shared" element={<SharedReflections />} />
+          <Route path="/about" element={<About />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>
