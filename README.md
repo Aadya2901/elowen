@@ -78,7 +78,7 @@ The AI responds with validation only — no advice, no diagnosis, no fixing.
 ---
 
 ### 🌿 Shared — Small Pieces of Honesty
-![Shared Reflections](screenshots/shared.png)
+![Shared Reflections](screenshots/shared.jpeg)
 
 Anonymous reflections shared gently to foster quiet connection.  
 Designed to help users feel less alone without exposure, comparison, or emotional metrics.
