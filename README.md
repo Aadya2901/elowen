@@ -16,8 +16,8 @@ Elowen focuses on **presence over productivity** and **empathy over efficiency**
 
 ## 🚀 Live Demo
 
-🔗 *Website:* [Visit Elowen](https://elowen.lovable.app/)  
-🔗 *Demo Video:* *(add link if available)*
+🔗 **Website:** https://elowen-olive.vercel.app/  
+🔗 **Demo Video:** https://youtu.be/XTCmwfcBUmY?si=hr9w4Mgz2ZWvfZxX  
 
 ---
 
@@ -58,7 +58,38 @@ Elowen focuses on **presence over productivity** and **empathy over efficiency**
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+---
+
+### 🏠 Home — A Gentle Invitation to Pause
+![Home Page](screenshots/home.png)
+
+Elowen opens with softness and clarity.  
+A minimal, pastel interface designed to reduce cognitive load and immediately create emotional safety — no urgency, no noise.
+
+---
+
+### 🌸 Softspace — Your Words, Held Gently
+![Softspace Reflection](screenshots/softspace.png)
+
+The core reflection experience.  
+Users can express themselves freely and choose a tone that feels closest to them.  
+The AI responds with validation only — no advice, no diagnosis, no fixing.
+
+---
+
+### 🌿 Shared — Small Pieces of Honesty
+![Shared Reflections](screenshots/shared.png)
+
+Anonymous reflections shared gently to foster quiet connection.  
+Designed to help users feel less alone without exposure, comparison, or emotional metrics.
+
+---
+
+### 🤍 About — Why Elowen Exists
+![About Page](screenshots/about.png)
+
+A transparent explanation of Elowen’s purpose and ethical boundaries.  
+Clearly positioned as a reflective space — not a substitute for professional care.
 
 - 🌿 Softspace Reflection Screen  
 - 🎨 Pastel UI Layout  
